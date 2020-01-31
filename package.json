@@ -1,0 +1,26 @@
+{
+  "name": "allex_identitycontrolwebcomponent",
+  "version": "1.0.0",
+  "description": "Allex identity control web component - managing my profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-components/identitycontrol.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "identity",
+    "control",
+    "web",
+    "component"
+  ],
+  "author": "Luka Petrovic <lukapetrovicsi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-components/identitycontrol/issues"
+  },
+  "homepage": "https://github.com/allex-web-components/identitycontrol#readme"
+}
